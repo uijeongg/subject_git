@@ -1,4 +1,5 @@
 # 소프트웨어 형상관리 
+##### class date 2022.03.05~07
 
 ## 1. [Git 처음 사용법 및 홈페이지 만들기](https://www.youtube.com/watch?v=hYXh1l07WNM&t=35s)
 
